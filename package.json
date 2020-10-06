@@ -1,0 +1,18 @@
+{
+  "name": "git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "file:express",
+    "mongodb": "^3.6.2",
+    "nodemon": "^2.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jake Ontiveros",
+  "license": "MIT"
+}
